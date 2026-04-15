@@ -10,7 +10,7 @@ Built by [Kayan Shah](https://github.com/KayanShah)
 [![Swift](https://img.shields.io/badge/Built%20with-Swift%20%2F%20SwiftUI-f05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Platform](https://img.shields.io/badge/Platform-iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/)
 [![Vercel](https://img.shields.io/badge/Powered%20by-Vercel%20API-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![License](https://img.shields.io/badge/License-MIT%20%2B%20Attribution-white?style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/badge/License-MIT%20%2B%20Attribution-000000?style=for-the-badge)](./LICENSE)
 
 <br/>
 
