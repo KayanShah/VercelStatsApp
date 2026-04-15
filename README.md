@@ -49,25 +49,29 @@ Built entirely in SwiftUI, it connects directly to the Vercel API using your per
 
 ## ✦ Getting Started
 
-### 1. Clone the repo
+### 1. Fork the repo
+
+Click **Fork** at the top right of this page to create your own copy of the repository. This is required — do not clone or copy the code directly.
+
+### 2. Clone your fork
 
 ```bash
-git clone https://github.com/KayanShah/VercelStatsApp.git
+git clone https://github.com/YOUR_USERNAME/VercelStatsApp.git
 cd VercelStatsApp
 ```
 
-### 2. Open in Xcode
+### 3. Open in Xcode
 
 Open `Vercel Analytics.xcodeproj` in Xcode 15+. Set the deployment target to **iOS 16.0** or later.
 
-### 3. Get a Vercel API Token
+### 4. Get a Vercel API Token
 
 1. Go to [vercel.com/account/tokens](https://vercel.com/account/tokens)
 2. Click **Create Token**
 3. Set scope to **Full Account** and expiration to **No Expiration**
 4. Copy the token
 
-### 4. Run the app
+### 5. Run the app
 
 Build and run on a simulator or real device. Paste your token into the login screen and connect.
 
